@@ -6,12 +6,12 @@ contact:
   location:
   email: grace.liyangping@gmail.com
   phone: +86-156-2645-2325
-  https://github.com/xiaoliangpi: github
+  github: https://github.com/xiaoliangpi
   twitter: https://twitter.com/Grace_yangping/
 
 profile:
   display: true
-  title: Profile
+  title: Objectives
   details: |
     It's your career profile, you can wirte markdown format text.
     + First

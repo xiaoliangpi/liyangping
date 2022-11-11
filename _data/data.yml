@@ -1,9 +1,6 @@
 basic:
   name: Yangping Li
   title: Algorithm Developer
-  avatar:
-    display: true
-    path: profile.png
 
 contact:
   location:

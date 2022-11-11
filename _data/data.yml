@@ -1,14 +1,14 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Yangping Li
+  title: Algorithm Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: grace.liyangping@gmail.com
+  phone: +86-156-2645-2325
   website: example.com
   wechat:
   whatsapp:

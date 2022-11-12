@@ -98,6 +98,24 @@ experiences:
         + Predicted mechanical properties from microstructural features, R2 values reached at 0.89
         + Made Influence of microstructural features on mechanical properties transparent
 
+projects:
+  display: true
+  title: Work Experience
+  intro: |
+    
+  items:
+    - name: Dymind Biotech [09/2022-present]
+      link: 
+      details: |
+        + Algorithm Developer
+        + Image Analysis Assists in Diagnosis of Blood Disorders
+    - name: Xiaomi [07/2021-08/2022]
+      link:
+      details: |
+        + Algorithm Engineer
+        + Be responsible for the performance optimization of Redmi K40S and Mi 12s Dimensity.
+
+
 skills:
   display: true
   title: Skills & Proficiency
@@ -122,18 +140,23 @@ languages:
     - idiom: Chinese
       level: Native
     - idiom: English
-      level: Professional
+      level: Fluent
+    - idiom: Cantonese
+      level: Fluent
 
 interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Hiking camping
       link:
-    - item: Cooking
+    - item: Skiing
       link:
-
-
+    - item: Camping
+      link:
+    - item: Writing novels
+      link:
+      
 
 close: >
   Sorry, my resume has been hidden.

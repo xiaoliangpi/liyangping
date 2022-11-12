@@ -6,8 +6,8 @@ contact:
   location:
   email: grace.liyangping@gmail.com
   phone: +86-156-2645-2325
-  github: https://github.com/xiaoliangpi
-  twitter: https://twitter.com/Grace_yangping/
+  github: xiaoliangpi
+  twitter: Grace_yangping
 
 profile:
   display: true
@@ -45,12 +45,11 @@ publications:
   title: Publications
   intro: |
     
-
   items:
     - title: A Geometric Reconstruction Method for Predicting Shape of Irregular Rocks under Moon’s Subsurface Using Lunar Penetrating Radar Based on a Deep Learning Algorithm.
       authors: First author
       conference: Journal of Electronics & Information Technology, 2022, 44(4)1222-1230
-      link: 
+      link: https://jeit.ac.cn/article/doi/10.11999/JEIT211142?pageType=en
     - title: Neural network model for correlating microstructura features and hardness properties of nickel-based superalloys
       authors: First author
       conference: Journal of Materials Research and Technology,Volume 9, Issue 6, 2020, Pages 14467-14477
@@ -77,6 +76,7 @@ experiences:
         Experience in this project:
         + Segmentation of white blood cells and red blood cells
         + Identification of Abnormal Blood Cells and Diagnosing
+        + Calculated and measured morphological characteristics of blood cells
         
     - role: Graduate Researcher
       time: 10/2019-06/2021
@@ -85,8 +85,9 @@ experiences:
       location: Beijing
       details: |
         Experience in this project:
-        + Segmentation of white blood cells and red blood cells
-        + Identification of Abnormal Blood Cells and Diagnosing
+        + Extracting rock outlines from samples obtained by Apollo 14
+        + Simulated the subsurface layered structuret(50cm) got echo signal from the ground penetrating radar
+        + Reconstructed the upper surface, average error of reconstructed model was wihtin 5 cm
 
     - role: Graduate Researcher
       time: 10/2018-02/2020
@@ -96,7 +97,8 @@ experiences:
       details: |
         Experience in this project:
         + Calculated microstructural and distribution state of each γ′ precipitates
-        + Predicted mechanical properties from microstructural features of the γ′ precipitates
+        + Predicted mechanical properties from microstructural features, R2 values reached at 0.89
+        + made how microstructural features support mechanical properties transparent
 
 skills:
   display: true

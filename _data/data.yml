@@ -69,12 +69,11 @@ projects:
     - name: 
       link: 
       details: |
-        Funded by Dymind Biotech Co. Ltd.
-
+        
     - name: 
       link:
       details: |
-        Funded by Key Laboratory of Space Utilization
+        
 
 experiences:
   display: true

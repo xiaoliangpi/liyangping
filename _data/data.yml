@@ -102,18 +102,24 @@ certificates:
   display: true
   title: Seminar and Forums
   items:
+    - name: International Mechanical Engineering Congress and Exposition 2021
+      authority: ASME
+      time: 11/2021
+      link: https://event.asme.org/IMECE-2021
+      details: |
+        Attended
     - name: International Mechanical Engineering Congress and Exposition 2020
       authority: ASME
-      time: 08/2020
+      time: 11/2020
       link: https://event.asme.org/IMECE-2020/Program
       details: |
-        Attended the IMECE 2020, and gave the academic speech on “Bridging precipitate microstructure and mechanical hardness of nickel-based superalloy through artificial neural network model”
+        Attended and delivered an academic presentation
     - name: 1st China Space Science Assembly
       authority: Coursera
-      time: 2019
+      time: 10/2019
       link: 
       details: |
-        Attended the 1st China Space Science Assembly
+        Attended
 
 projects:
   display: true

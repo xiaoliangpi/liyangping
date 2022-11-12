@@ -56,23 +56,21 @@ publications:
       conference: Foobar, 2019
       link:
         
-projects:
+certificates:
   display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
+  title: Certificates
   items:
-    - name: Blood cell segmentation, identification and disease diagnosis
-      link: 
-      details: |
-        Funded by Dymind Biotech Co., Ltd
-
-    - name: Reconstruction of Lunar Geological Structure based on DNN model
+    - name: Course Foo
+      authority: Coursera
+      time: 2020
       link:
       details: |
-        Funded by Key Laboratory of Space Utilization
-        
+        It's my Course Foo certificate by coursera.
+    - name: Course Bar
+      authority: Coursera
+      time: 2020
+      link: https://www.google.com
+      details: |
 
 experiences:
   display: true

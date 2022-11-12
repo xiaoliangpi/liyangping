@@ -43,19 +43,14 @@ education:
 publications:
   display: true
   title: Publications
+  intro: |
+    This is all the books I wrote.
+
   items:
-    - title: 
-      authors: 
-      conference: 
-      link: 
-    - title: 
-      authors: 
-      conference: Foobar, 2019
-      link:
-     - title: The Art of Bar
+    - title: Foo in Action
       authors: Foo Bar
       conference: Foobar, 2019
-      link:
+      link: https://www.google.com
     - title: The Art of Bar
       authors: Foo Bar
       conference: Foobar, 2019
@@ -63,16 +58,20 @@ publications:
         
 projects:
   display: true
-  title: Research Projects
+  title: Projects
   intro: |
+    This is all the projects I'm involved in.
+
   items:
-    - name: 
-      link: 
+    - name: Foo
+      link: https://www.google.com
       details: |
-        
-    - name: 
+        Project Foo's detail, you can write markdown format text.
+
+    - name: Bar
       link:
       details: |
+        Project Bar's detail, you can write markdown format text.
         
 
 experiences:

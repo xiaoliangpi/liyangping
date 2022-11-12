@@ -13,11 +13,9 @@ profile:
   display: true
   title: Objectives
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    My research interests is medical **image analysis**, including visualizing and 
+      understanding of automatic features which are learned from CNN models, 
+      image segmentation and machine learning applied in disease diagnosis.
     
 education:
   display: true
@@ -31,7 +29,7 @@ education:
         Awards:
         + College Scholarship in 2021
         + Merit Student in 2021
-        Main course: Academic Writing in English, Digital Image Processing, pattern recognition
+        + Main course: Academic Writing in English, Digital Image Processing, pattern recognition
 
     - university: Southern Medical University, China
       time: 09/2011-07/2016

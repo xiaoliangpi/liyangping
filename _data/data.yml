@@ -18,6 +18,61 @@ profile:
     + Second
 
     ...
+    
+education:
+  display: true
+  title: Education
+  items:
+    - university: University of Chinese Academy of Sciences, China 
+      time: 09/2018-07/2021
+      major: Signal and Information Processing
+      degree: Master of Sciences
+      details: |
+        Awards:
+        + College Scholarship in 2021
+        + Merit Student in 2021
+        Main course: Academic Writing in English, Digital Image Processing, pattern recognition
+
+    - university: Southern Medical University, China
+      time: 09/2011-07/2016
+      major: Biomedical Engineering
+      degree: Bachelor of Engineering
+      details: |
+        Main course:
+        + Digital Image Processing, Principles of Radiotherapy Equipment, Principle and Technology of CT Imaging, MRI Imaging Principle and Technology
+
+publications:
+  display: true
+  title: Publications
+  intro: |
+    This is all the books I wrote.
+
+  items:
+    - title: Foo in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: https://www.google.com
+    - title: The Art of Bar
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link:
+        
+projects:
+  display: true
+  title: Projects
+  intro: |
+    This is all the projects I'm involved in.
+
+  items:
+    - name: Foo
+      link: https://www.google.com
+      details: |
+        Project Foo's detail, you can write markdown format text.
+
+    - name: Bar
+      link:
+      details: |
+        Project Bar's detail, you can write markdown format text.
 
 experiences:
   display: true
@@ -45,25 +100,6 @@ experiences:
         + First
         + Second
 
-        ...
-
-projects:
-  display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-
 skills:
   display: true
   title: Skills
@@ -81,71 +117,6 @@ skills:
       level: 80
     - name: Skill C
       level: 70
-
-education:
-  display: true
-  title: Education
-  items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-certificates:
-  display: true
-  title: Certificates
-  items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
-
-publications:
-  display: true
-  title: Publications
-  intro: |
-    This is all the books I wrote.
-
-  items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
-
-patents:
-  display: true
-  title: Patents
-  details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
   display: true
@@ -165,18 +136,7 @@ interests:
     - item: Cooking
       link:
 
-evaluation:
-  display: true
-  title: Self-evaluation
-  details: |
-    Here is my self evaluation.
-    + First
-    + Second
 
-    ...
-
-footer:
-  display: true
 
 close: >
   Sorry, my resume has been hidden.

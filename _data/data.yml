@@ -97,6 +97,23 @@ experiences:
         + Calculated microstructural and distribution state of each γ′ precipitates
         + Predicted mechanical properties from microstructural features, R2 values reached at 0.89
         + Made Influence of microstructural features on mechanical properties transparent
+        
+certificates:
+  display: true
+  title: Seminar and Forums
+  items:
+    - name: International Mechanical Engineering Congress and Exposition 2020
+      authority: ASME
+      time: 08/2020
+      link: https://event.asme.org/IMECE-2020/Program
+      details: |
+        Attended the IMECE 2020, and gave the academic speech on “Bridging precipitate microstructure and mechanical hardness of nickel-based superalloy through artificial neural network model”
+    - name: 1st China Space Science Assembly
+      authority: Coursera
+      time: 2019
+      link: 
+      details: |
+        Attended the 1st China Space Science Assembly
 
 projects:
   display: true

@@ -73,8 +73,9 @@ experiences:
       details: |
         Funded by Dymind Biotech Co., Ltd:
         + Segmentation of white blood cells and red blood cells
-        + Identification of Abnormal Blood Cells and Diagnosing
         + Calculated and measured morphological characteristics of blood cells
+        + Identification of Abnormal Blood Cells and Diagnosing
+
         
     - role: Graduate Researcher
       time: 10/2019-06/2021

@@ -44,7 +44,7 @@ publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
+    This is all the paper I wrote.
 
   items:
     - title: Foo in Action
@@ -63,15 +63,15 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Blood cell segmentation, identification and disease diagnosis
+      link: 
       details: |
-        Project Foo's detail, you can write markdown format text.
+        Funded by Dymind Biotech Co., Ltd
 
-    - name: Bar
+    - name: Reconstruction of Lunar Geological Structure based on DNN model
       link:
       details: |
-        Project Bar's detail, you can write markdown format text.
+        Funded by Key Laboratory of Space Utilization
         
 
 experiences:

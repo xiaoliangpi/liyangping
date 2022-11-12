@@ -59,7 +59,7 @@ publications:
     - title: A Three-Dimensional Path Planning Method of Autonomous Burrowing Robot for Lunar Subsurface Exploration
       authors: Third author
       conference: IEEE International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2021, 710-715
-      link:
+      link: https://ieeexplore.ieee.org/abstract/document/9536059/
 
 experiences:
   display: true
@@ -132,7 +132,7 @@ projects:
       link: 
       details: |
         + Algorithm Developer
-        + Image Analysis Assists in Diagnosis of Blood Disorders
+        + Microscopic analysis of blood cells for disease detection with machine learning
     - name: Xiaomi [07/2021-08/2022]
       link:
       details: |

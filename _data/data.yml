@@ -28,7 +28,7 @@ education:
       details: |
         Awards:
         + College Scholarship in 2021
-        + Merit Student in 2021 <br\>
+        + Merit Student in 2021:
         Main course: 
         + Academic Writing in English, Digital Image Processing, pattern recognition
 
@@ -70,10 +70,10 @@ experiences:
     - role: Algorithm Developer
       time: 09/2022-present
       company: Blood Cell Classification and Disease Diagnosis
-      tag: Funded by Dymind Biotech Co., Ltd
+      tag:
       location: Shenzhen
       details: |
-        Experience in this project:
+        Funded by Dymind Biotech Co., Ltd:
         + Segmentation of white blood cells and red blood cells
         + Identification of Abnormal Blood Cells and Diagnosing
         + Calculated and measured morphological characteristics of blood cells
@@ -81,21 +81,21 @@ experiences:
     - role: Graduate Researcher
       time: 10/2019-06/2021
       company: Reconstruction of Lunar Geological Structure
-      tag: Funded by Key Laboratory of Space Utilization
+      tag: 
       location: Beijing
       details: |
-        Experience in this project:
+        Funded by Key Laboratory of Space Utilization:
         + Extracting rock outlines from samples obtained by Apollo 14
-        + Simulated the subsurface layered structuret(50cm) got echo signal from the ground penetrating radar
+        + Simulated the subsurface layered structuret and got echo signal from the ground penetrating radar
         + Reconstructed the upper surface, average error of reconstructed model was wihtin 5 cm
 
     - role: Graduate Researcher
       time: 10/2018-02/2020
       company: Morphological Characteristics of Nickel-based Superalloys
-      tag: Funded by State Key Laboratory of Powder Metallurgy
+      tag: 
       location: Beijing
       details: |
-        Experience in this project:
+        Funded by State Key Laboratory of Powder Metallurgy:
         + Calculated microstructural and distribution state of each γ′ precipitates
         + Predicted mechanical properties from microstructural features, R2 values reached at 0.89
         + made how microstructural features support mechanical properties transparent
@@ -103,6 +103,10 @@ experiences:
 skills:
   display: true
   title: Skills & Proficiency
+  details: |
+    Here is my skills:
+    + Python & Bash & Matlab: 
+    + Second
   levels:
     - name: Python & Bash & Matlab
       level: 80

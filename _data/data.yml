@@ -44,13 +44,11 @@ publications:
   display: true
   title: Publications
   items:
-    - title: A Geometric Reconstruction Method for Predicting Shape of Irregular Rocks 
-    under Moon’s Subsurface Using Lunar Penetrating Radar Based on a Deep Learning Algorithm.
+    - title: "A Geometric Reconstruction Method for Predicting Shape of Irregular Rocks under Moon’s Subsurface Using Lunar Penetrating Radar Based on a Deep Learning Algorithm."
       authors: 
       conference: 
       link: 
-    - title: Neural network model for correlating microstructura features and 
-    hardness properties of nickel-based superalloys.
+    - title: "Neural network model for correlating microstructura features and hardness properties of nickel-based superalloys."
       authors: 
       conference: Foobar, 2019
       link:

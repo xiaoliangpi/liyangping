@@ -53,13 +53,13 @@ publications:
       conference: Journal of Materials Research and Technology,Volume 9, Issue 6, 2020, Pages 14467-14477.
       link: https://doi.org/10.1016/j.jmrt.2020.10.042
     - title: Bridging precipitate microstructure and mechanicalhardness of nickel-based superalloy through artificial neural network model
-      link: https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2020/84607/V012T12A052/1099634
       authors: **Yangping Li**, Yangyi Liu, Zaiwang Huang, Ke Wang, Haifeng Zhao, and Liang Jiang.
       conference: ASME International Mechanical Engineering Congress and Exposition. 2020, 84607: V012T12A052.
+      link: https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2020/84607/V012T12A052/1099634
     - title: A Three-Dimensional Path Planning Method of Autonomous Burrowing Robot for Lunar Subsurface Exploration.
-      link: 
       authors: Yangyi Liu, Zihao Yuan, **Yangping Li**, and Haifeng Zhao
       conference: IEEE ARM Proceedings, 2021.
+      link: #
         
 projects:
   display: true
@@ -106,21 +106,18 @@ experiences:
 
 skills:
   display: true
-  title: Skills
-  details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
-
+  title: Skills & Proficiency
   levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
+    - name: Python & Bash & Matlab
       level: 80
-    - name: Skill C
+    - name: Java & C & Kotlin
+      level: 85
+    - name: Keras & Pytorch
       level: 70
+    - name: Git
+      level: 90
+    - name: Adobe After Effects & Photoshop
+      level: 60%
 
 languages:
   display: true

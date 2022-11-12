@@ -66,12 +66,12 @@ projects:
   title: Research Projects
   intro: |
   items:
-    - name: Blood cell segmentation identification and disease diagnosis
+    - name: 
       link: 
       details: |
         Funded by Dymind Biotech Co. Ltd.
 
-    - name: Reconstruction of Lunar Geological Structure based on DNN model
+    - name: 
       link:
       details: |
         Funded by Key Laboratory of Space Utilization

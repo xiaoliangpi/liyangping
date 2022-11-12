@@ -49,7 +49,7 @@ publications:
   items:
     - title: A Geometric Reconstruction Method for Predicting Shape of Irregular Rocks under Moon’s Subsurface Using Lunar Penetrating Radar Based on a Deep Learning Algorithm.
       authors: First author
-      conference: Journal of Electronics & Information Technology, 2022, 44(4): 1222-1230
+      conference: Journal of Electronics & Information Technology, 2022, 44(4)1222-1230
       link: 
     - title: Neural network model for correlating microstructura features and hardness properties of nickel-based superalloys
       authors: First author
@@ -68,7 +68,7 @@ experiences:
   display: true
   title: Research Experiences
   items:
-    - role: Backend Developer
+    - role: Graduate Researcher
       time: 2018.03 - 2019.03
       company: Second Company
       tag:

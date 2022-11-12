@@ -28,8 +28,8 @@ education:
       details: |
         Awards:
         + College Scholarship in 2021
-        + Merit Student in 2021:
-        Main course: 
+        + Merit Student in 2021
+        - Main course: 
         + Academic Writing in English, Digital Image Processing, pattern recognition
 
     - university: Southern Medical University, China

@@ -44,11 +44,11 @@ publications:
   display: true
   title: Publications
   items:
-    - title: "A Geometric Reconstruction Method for Predicting Shape of Irregular Rocks under Moon’s Subsurface Using Lunar Penetrating Radar Based on a Deep Learning Algorithm."
+    - title: 
       authors: 
       conference: 
       link: 
-    - title: "Neural network model for correlating microstructura features and hardness properties of nickel-based superalloys."
+    - title: 
       authors: 
       conference: Foobar, 2019
       link:
@@ -63,20 +63,18 @@ publications:
         
 projects:
   display: true
-  title: Projects
+  title: Research Projects
   intro: |
-    This is all the projects I'm involved in.
-
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Blood cell segmentation, identification and disease diagnosis
+      link: 
       details: |
-        Project Foo's detail, you can write markdown format text.
+        Funded by Dymind Biotech Co., Ltd.
 
-    - name: Bar
+    - name: Reconstruction of Lunar Geological Structure based on DNN model
       link:
       details: |
-        Project Bar's detail, you can write markdown format text.
+        Funded by Key Laboratory of Space Utilization
 
 experiences:
   display: true

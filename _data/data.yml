@@ -28,7 +28,7 @@ education:
       details: |
         Awards:
         + College Scholarship in 2021
-        + Merit Student in 2021
+        + Merit Student in 2021 |
         Main course: 
         + Academic Writing in English, Digital Image Processing, pattern recognition
 
@@ -44,7 +44,7 @@ publications:
   display: true
   title: Publications
   intro: |
-    This is all the paper.
+    
 
   items:
     - title: A Geometric Reconstruction Method for Predicting Shape of Irregular Rocks under Moon’s Subsurface Using Lunar Penetrating Radar Based on a Deep Learning Algorithm.

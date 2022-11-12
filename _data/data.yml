@@ -49,11 +49,11 @@ publications:
   items:
     - title: A Geometric Reconstruction Method for Predicting Shape of Irregular Rocks under Moon’s Subsurface Using Lunar Penetrating Radar Based on a Deep Learning Algorithm.
       authors: Yangping Li, Huang Ling, Wang Ke, Haifeng Zhao.
-      conference: Journal of Electronics & Information Technology, 2022, 44(4): 1222-1230.
+      conference: 
       link: https://www.google.com
     - title: Neural network model for correlating microstructura features and hardness properties of nickel-based superalloys
       authors: YangpingLi, Yangyi Liu,...Haifeng Zhao, Liang Jiang
-      conference: Journal of Materials Research and Technology,Volume 9, Issue 6, 2020, Pages 14467-14477.
+      conference: 
       link:
     - title: Bridging precipitate microstructure and mechanicalhardness of nickel-based superalloy through artificial neural network model
       authors: Yangping Li, Yangyi Liu,...Haifeng Zhao, and Liang Jiang
@@ -61,7 +61,7 @@ publications:
       link:
     - title: A Three-Dimensional Path Planning Method of Autonomous Burrowing Robot for Lunar Subsurface Exploration
       authors: Yangyi Liu, Zihao Yuan, Yangping Li, and Haifeng Zhao
-      conference: IEEE ARM Proceedings, 2021
+      conference: 
       link:
         
 certificates:

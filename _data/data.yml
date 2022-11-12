@@ -103,11 +103,17 @@ skills:
   title: Skills & Proficiency
   details: |
     Here is my skills:
-    + Competent with      Python, Bash, Matlab
-    + Familiar with			  Java, C, Kotlin
-    + Libraries				    Keras, Pytorch
-    + Version control			Git
+    + Libraries: Keras, Pytorch
+    + Version control: Git
   levels:
+    - name: Python
+      level: 80
+    - name: Bash
+      level: 70
+    - name: Matlab
+      level: 80
+    - name: Java
+      level: 85
 
 languages:
   display: true

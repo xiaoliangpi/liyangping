@@ -65,30 +65,30 @@ experiences:
   display: true
   title: Research Experiences
   items:
-    - role: Algorithm Developer
+    - role: Supervisor: Dr. Guangjian Liu
       time: 09/2022-present
       company: Blood Cell Classification and Disease Diagnosis
       tag:
       location: Shenzhen
       details: |
         Funded by Dymind Biotech Co., Ltd:
-        + Segmentation of white blood cells and red blood cells
+        + Developed a fully automated process for blood cell segmentation and classification
         + Calculated and measured morphological characteristics of blood cells
-        + Identification of Abnormal Blood Cells and Diagnosing
+        + Explored new models of abnormal blood cell recognition and aided in disease diagnosis
 
         
-    - role: Graduate Researcher
+    - role: Supervisor: Prof. Haifeng Zhao, Ling Huang
       time: 10/2019-06/2021
       company: Reconstruction of Lunar Geological Structure
       tag: 
       location: Beijing
       details: |
         Funded by Key Laboratory of Space Utilization:
-        + Extracting rock outlines from samples obtained by Apollo 14
-        + Simulated the subsurface layered structuret and got echo signal from the ground penetrating radar
+        + Extracted rock outlines from sample photos from Apollo 14
+        + Wrote automatic scripts to simulate subsurface layered structuret and obtained ground penetrating radar signals
         + Reconstructed the upper surface, average error of reconstructed model was wihtin 5 cm
 
-    - role: Graduate Researcher
+    - role: Supervisor: Prof. Haifeng Zhao, Liang Jiang, Wenwang Huang
       time: 10/2018-02/2020
       company: Morphological Characteristics of Nickel-based Superalloys
       tag: 
@@ -137,7 +137,8 @@ projects:
       link:
       details: |
         + Algorithm Engineer
-        + Be responsible for the performance optimization of Redmi K40S and Mi 12s Dimensity
+        + Optimized the performance of Redmi K40S and Mi 12s Dimensity
+        + Designed a "performance-power-thermal" model for performance optimization
         + Got “Excellence Award” (top 3 of 20 teams) in Software Programming Contest
 
 

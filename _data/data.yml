@@ -65,7 +65,7 @@ experiences:
   display: true
   title: Research Experiences
   items:
-    - role: Supervisor: Dr. Guangjian Liu
+    - role: Supervisor Dr. Guangjian Liu
       time: 09/2022-present
       company: Blood Cell Classification and Disease Diagnosis
       tag:

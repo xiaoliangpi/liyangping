@@ -71,29 +71,29 @@ experiences:
       tag:
       location: Shenzhen
       details: |
-        Supervisor: Dr. Guangjian Liu:
+        Supervisor: Dr. Guangjian Liu
         + Developed a fully automated process for blood cell segmentation and classification
         + Calculated and measured morphological characteristics of blood cells
         + Explored morphological differences between cancer cells and normal cells, based on large image data 
         
-    - role: Supervisor Prof. Haifeng Zhao, Ling Huang
+    - role: Funded by Key Laboratory of Space Utilization
       time: 10/2019-06/2021
       company: Reconstruction of Lunar Geological Structure
       tag: 
       location: Beijing
       details: |
-        Funded by Key Laboratory of Space Utilization:
+        Supervisor: Prof. Haifeng Zhao, Ling Huang
         + Extracted rock outlines from sample photos from Apollo 14
         + Wrote automatic scripts to simulate subsurface layered structuret, and obtained ground penetrating radar signals
         + Reconstructed the upper surface, average error of reconstructed model was wihtin 5 cm
 
-    - role: Supervisor Prof. Haifeng Zhao, Liang Jiang, Wenwang Huang
+    - role: Funded by State Key Laboratory of Powder Metallurgy
       time: 10/2018-02/2020
       company: Morphological Characteristics of Nickel-based Superalloys
       tag: 
       location: Beijing
       details: |
-        Funded by State Key Laboratory of Powder Metallurgy:
+        Supervisor: Prof. Haifeng Zhao, Liang Jiang, Wenwang Huang
         + Calculated microstructural and distribution state of each γ′ precipitates
         + Predicted mechanical properties from microstructural features, R2 values reached at 0.89
         + Made Influence of microstructural features on mechanical properties transparent

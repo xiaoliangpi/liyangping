@@ -65,13 +65,13 @@ experiences:
   display: true
   title: Research Experiences
   items:
-    - role: Supervisor Dr. Guangjian Liu
+    - role: Funded by Dymind Biotech Co., Ltd
       time: 09/2022-present
       company: Blood Cell Classification and Disease Diagnosis
       tag:
       location: Shenzhen
       details: |
-        Funded by Dymind Biotech Co., Ltd:
+        Supervisor: Dr. Guangjian Liu:
         + Developed a fully automated process for blood cell segmentation and classification
         + Calculated and measured morphological characteristics of blood cells
         + Explored morphological differences between cancer cells and normal cells, based on large image data 

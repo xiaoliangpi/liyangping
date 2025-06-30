@@ -1,6 +1,6 @@
 basic:
   name: Yangping Li
-  title: Shenzhen, P. R. China
+  title: Bonn, Germany
 
 contact:
   location:
@@ -21,6 +21,10 @@ education:
   display: true
   title: Education
   items:
+    - university: University of Chinese Academy of Sciences, China 
+      time: 10/2023-present
+      major: Biomathematics
+
     - university: University of Chinese Academy of Sciences, China 
       time: 09/2018-07/2021
       major: Signal and Information Processing
@@ -44,6 +48,9 @@ publications:
   intro: |
     
   items:
+    - title: Low-branching vessel architecture shapes immune cell niches and predicts immune responses in renal cancer.
+      authors: Second author
+      link: https://www.medrxiv.org/content/10.1101/2025.06.05.25329017v1
     - title: A Geometric Reconstruction Method for Predicting Shape of Irregular Rocks under Moon’s Subsurface Using Lunar Penetrating Radar Based on a Deep Learning Algorithm.
       authors: First author
       conference: Journal of Electronics & Information Technology, 2022, 44(4)1222-1230
@@ -65,8 +72,19 @@ experiences:
   display: true
   title: Research Experiences
   items:
+    - role: Funded by Chinese Scholarship Council
+      time: 11/2023-09/2024
+      company: Weakly Supervised Semantic Segmentation in Histopathology based on Global Proportions
+      tag:
+      location: Bonn
+      details: |
+        Supervisor: Prof. Alexander Effland
+        + The model's labels are only the proportions of the pattern classes of the global image
+        + Did weakly supervised semantic segmentation based on test-time augmentation for neural networks
+        + Proposed an energy-based optimization model to refine the segmentation masks
+        
     - role: Funded by Dymind Biotech Co., Ltd
-      time: 09/2022-present
+      time: 09/2022-09/2023
       company: Blood Cell Classification and Disease Diagnosis
       tag:
       location: Shenzhen

@@ -149,15 +149,7 @@ skills:
     Computing skills:
     + Libraries: Keras, Pytorch
     + Version control: Git
-  levels:
-    - name: Python
-      level: 80
-    - name: Bash
-      level: 70
-    - name: Matlab
-      level: 80
-    - name: Java
-      level: 85
+    + Programming Languages: Python, Bash, Matlab, Java
 
 languages:
   display: true

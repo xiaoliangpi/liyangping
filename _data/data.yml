@@ -24,6 +24,7 @@ education:
     - university: University of Bonn, Germany 
       time: 10/2023-present
       major: Biomathematics
+      degree: Ph.D. candidate
       
     - university: University of Chinese Academy of Sciences, China 
       time: 09/2018-07/2021
@@ -72,6 +73,17 @@ experiences:
   display: true
   title: Research Experiences
   items:
+    - role: Funded by Chinese Scholarship Council
+      time: 11/2024-present
+      company: Spatial Cell Typing and Interaction Profiling in Tissue Microenvironments
+      tag:
+      location: Bonn
+      details: |
+        Supervisor: Prof. Alexander Effland, Prof. Marieta Toma
+        + Obtain each cell class based on fluorescent microscopic pathology slides.
+        + Compute spatial proximity between cells using transformed distance metrics.
+        + Identify and count neighboring cell-type pairs within a dynamic distance threshold to study spatial interactions across the tissue microenvironment.
+        
     - role: Funded by Chinese Scholarship Council
       time: 11/2023-09/2024
       company: Weakly Supervised Semantic Segmentation in Histopathology based on Global Proportions

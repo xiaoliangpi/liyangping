@@ -49,6 +49,9 @@ publications:
   intro: |
     
   items:
+    - title: Semantic Segmentation for Histopathology using Learned Regularization based on Global Proportions.
+      authors: First author
+      link: https://doi.org/10.1007/s11263-026-02856-6
     - title: Low-branching vessel architecture shapes immune cell niches and predicts immune responses in renal cancer.
       authors: Second author
       link: https://www.medrxiv.org/content/10.1101/2025.06.05.25329017v1
